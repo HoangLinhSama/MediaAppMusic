@@ -17,3 +17,5 @@ App nghe nhạc với các chức năng cơ bản: tạm dừng, phát nhạc, c
 ***
 ## GIAO DIỆN
 * Màn hình chính
+
+![Màn hình chính](https://github.com/HoangLinhSama/MediaAppMusic/blob/master/Image/main.png)
